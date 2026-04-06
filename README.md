@@ -8,7 +8,7 @@ O foco aqui não são projetos complexos, mas a **base sólida**: entender como 
 
 ## 🛠️ Ambiente de Desenvolvimento
 * **Linguagem:** C# (Strongly Typed)
-* **Runtime:** .NET 8 / .NET 9
+* **Runtime:** .NET 9 / .NET 10
 * **OS:** Windows (Desenvolvimento via Visual studio)
 * **Plataforma de Estudo:** Microsoft Learn & Desafios de Lógica
 
